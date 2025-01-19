@@ -1,0 +1,33 @@
+body {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.page-reddit, .page-tumblr {
+    border-left: 1em solid;
+    max-width: 100%;
+}
+
+.page-pair {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+}
+
+@media only screen and (min-width: 800px) {
+    .page-pair {
+        flex-wrap: nowrap;
+    }
+}
+
+.page-reddit {
+    border-left-color: darkorange;
+}
+
+.page-tumblr {
+    border-left-color: darkblue;
+}
+
+.page-common {
+    max-width: 100%;
+}
