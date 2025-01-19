@@ -43,20 +43,24 @@
     {% for page in comic.pages %}
     <div class="page-pair">
         <div class="page-tumblr-wrapper">
+            {% if page.tumblr %}
             <img src="{{page.tumblr}}"
                  alt="{{comic.name}}; Tumblr Version; No image description available."
                  class="lazy page-tumblr"
                  height="1030"
                  loading="lazy"
             >
+            {% endif %}
         </div>
         <div class="page-reddit-wrapper">
+            {% if page.reddit %}
             <img src="{{page.reddit}}"
                  alt="{{comic.name}}; Reddit Version; No image description available."
                  class="lazy page-reddit"
                  height="1030"
                  loading="lazy"
             >
+            {% endif %}
         </div>
     </div>
     {% endfor %}

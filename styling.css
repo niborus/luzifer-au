@@ -13,10 +13,16 @@ body {
     flex-wrap: wrap;
     max-width: 100%;
 }
+.page-reddit-wrapper, .page-tumblr-wrapper {
+    padding-right: 1em;
+}
 
 @media only screen and (min-width: 800px) {
     .page-pair {
         flex-wrap: nowrap;
+    }
+    .page-reddit-wrapper, .page-tumblr-wrapper {
+        width: 50%;
     }
 }
 
