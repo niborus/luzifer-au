@@ -19,6 +19,9 @@
             {% for comic in s2_double_timeline_comics %}
             <li><a href="#{{comic.id}}">{{comic.name}}</a></li>
             {% endfor %}
+            {% for comic in s3_joined_timeline_comics %}
+            <li><a href="#{{comic.id}}">{{comic.name}}</a></li>
+            {% endfor %}
         </ol>
     </section>
 </header>
@@ -62,6 +65,21 @@
             >
             {% endif %}
         </div>
+    </div>
+    {% endfor %}
+</article>
+{% endfor %}
+{% for comic in s3_joined_timeline_comics %}
+<article>
+    <h2 id="{{comic.id}}">{{comic.name}}</h2>
+    {% for page_src in comic.pages %}
+    <div class="single-timeline">
+        <img src="{{ page_src }}"
+             alt="{{comic.name}}; Common Version; No image description available."
+             class="lazy page-common"
+             height="1030"
+             loading="lazy"
+        >
     </div>
     {% endfor %}
 </article>

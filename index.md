@@ -259,4 +259,11 @@ s2_double_timeline_comics:
         reddit: https://img.moringmark.grzegorzkoperwas.site/Crossing%20Paths%20-1i3gy6t/2.webp
       - tumblr: https://64.media.tumblr.com/793343ec520532665c1d8bb2655953fd/72626368fb13e2ef-b3/s1280x1920/d564774ab1836dbb86b8f8e4b98584c473c54be5.png
         reddit: https://img.moringmark.grzegorzkoperwas.site/Crossing%20Paths%20-1i3gy6t/3.webp 
+s3_joined_timeline_comics:
+  - id: c30
+    name: First Meet
+    pages:
+      - https://64.media.tumblr.com/66a6bc45a6bcad7f5839921113ff9139/eaeac8148c51d655-f0/s1280x1920/fdc01d80b89495a50da968a65cb3df9207a0f1b8.png
+      - https://64.media.tumblr.com/8df293ca76a94eba0da089bf9db76bc0/eaeac8148c51d655-3e/s1280x1920/cbab595bfbfdcf2fa70197e457c2211e49c8c7bb.png
+      - https://64.media.tumblr.com/11e3220334c5a584848c65cc42aab358/eaeac8148c51d655-97/s1280x1920/da895a43c6aba9f2e36c099e9247858278ea7d55.png
 ---
