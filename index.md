@@ -179,7 +179,7 @@ s2_double_timeline_comics:
       - tumblr: https://64.media.tumblr.com/8cead5ec6e854d76050ef958e2a8aece/704a5b11e06ad30a-a6/s1280x1920/17ceb41ec0ac11373bb057d31548decee400d7f1.png
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Getting%20Rekt%20-1hb2d6b/5.webp
   - id: c23
-    name: "On Her Own Path"
+    name: "In This Together / On Her Own Path"
     pages:
       - tumblr: https://64.media.tumblr.com/df0457304f8b8e8f31afce36d437140e/1ec76475bac52457-1b/s1280x1920/fd7ca87ad7547586f878f58c934f93b39c9d8b62.png
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20On%20Her%20Own%20Path-1hdcsjy/0.webp
@@ -188,7 +188,7 @@ s2_double_timeline_comics:
       - tumblr: https://64.media.tumblr.com/dd0e571f2df608082dbb787c9e049cdb/1ec76475bac52457-a4/s1280x1920/ac4ca3de1d91996ecf14847b246669949cfb3dbd.png
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20On%20Her%20Own%20Path-1hdcsjy/2.webp
   - id: c24
-    name: "Taking Her Shot"
+    name: "Taking Their Shot / Taking Her Shot"
     pages:
       - tumblr: https://64.media.tumblr.com/17c235e63d7ca042067bf28ef67e3f12/3a284aeab2b9d369-8b/s1280x1920/e4a7f783a99af5a3d5c7a0c308dd63c9be4ea5e2.png
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Taking%20Her%20Shot%20-1hikd46/0.webp
