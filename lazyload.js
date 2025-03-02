@@ -1,5 +1,4 @@
 let images = document.getElementsByClassName("lazy")
-console.log(images)
 
 for (let img of images) {
     let loaded = function() {
