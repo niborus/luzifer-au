@@ -13,75 +13,52 @@
     <section id="toc">
         <h2>Table of Contents</h2>
         <ol>
-            {% for comic in s1_single_timeline_comics %}
-            <li><a href="#{{comic.id}}">{{comic.name}}</a></li>
-            {% endfor %}
-            {% for comic in s2_double_timeline_comics %}
-            <li><a href="#{{comic.id}}">{{comic.name}}</a></li>
-            {% endfor %}
-            {% for comic in s3_joined_timeline_comics %}
+            {% for comic in comics %}
             <li><a href="#{{comic.id}}">{{comic.name}}</a></li>
             {% endfor %}
         </ol>
     </section>
 </header>
-{% for comic in s1_single_timeline_comics %}
+{% for comic in comics %}
 <article>
-    <h2 id="{{comic.id}}">{{comic.name}}</h2>
-    {% for page_src in comic.pages %}
-    <div class="single-timeline">
-        <img src="{{ page_src }}"
-             alt="{{comic.name}}; Common Version; No image description available."
-             class="lazy page-common"
-             height="1030"
-             loading="lazy"
-        >
-    </div>
-    {% endfor %}
-</article>
-{% endfor %}
-{% for comic in s2_double_timeline_comics %}
-<article>
-    <h2 id="{{comic.id}}">{{comic.name}}</h2>
-    {% for page in comic.pages %}
-    <div class="page-pair">
-        <div class="page-tumblr-wrapper">
-            {% if page.tumblr %}
-            <img src="{{page.tumblr}}"
-                 alt="{{comic.name}}; Tumblr Version; No image description available."
-                 class="lazy page-tumblr"
+  <details>
+    <summary><h2 id="{{comic.id}}">{{comic.name}}</h2></summary>
+      {% for page in comic.pages %}
+        {% if page.common %}
+          <div class="single-timeline">
+            <img src="{{ page.common }}"
+                 alt="{{comic.name}}; Common Version; No image description available."
+                 class="lazy page-common"
                  height="1030"
                  loading="lazy"
             >
-            {% endif %}
-        </div>
-        <div class="page-reddit-wrapper">
-            {% if page.reddit %}
-            <img src="{{page.reddit}}"
-                 alt="{{comic.name}}; Reddit Version; No image description available."
-                 class="lazy page-reddit"
-                 height="1030"
-                 loading="lazy"
-            >
-            {% endif %}
-        </div>
-    </div>
-    {% endfor %}
-</article>
-{% endfor %}
-{% for comic in s3_joined_timeline_comics %}
-<article>
-    <h2 id="{{comic.id}}">{{comic.name}}</h2>
-    {% for page_src in comic.pages %}
-    <div class="single-timeline">
-        <img src="{{ page_src }}"
-             alt="{{comic.name}}; Common Version; No image description available."
-             class="lazy page-common"
-             height="1030"
-             loading="lazy"
-        >
-    </div>
-    {% endfor %}
+          </div>
+        {% else %}
+          <div class="page-pair">
+            <div class="page-tumblr-wrapper">
+              {% if page.tumblr %}
+                <img src="{{page.tumblr}}"
+                     alt="{{comic.name}}; Tumblr Version; No image description available."
+                     class="lazy page-tumblr"
+                     height="1030"
+                     loading="lazy"
+                >
+              {% endif %}
+            </div>
+            <div class="page-reddit-wrapper">
+              {% if page.reddit %}
+                <img src="{{page.reddit}}"
+                     alt="{{comic.name}}; Reddit Version; No image description available."
+                     class="lazy page-reddit"
+                     height="1030"
+                     loading="lazy"
+                >
+              {% endif %}
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+  </details>
 </article>
 {% endfor %}
 <script src="lazyload.js"></script>

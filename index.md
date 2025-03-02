@@ -1,142 +1,141 @@
 ---
 layout: "layouts/base.njk"
-s1_single_timeline_comics:
+comics:
   - id: c01
     name: Evil Luz
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20AU%20-1f4vz4t/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20AU%20-1f4vz4t/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20AU%20-1f4vz4t/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20AU%20-1f4vz4t/1.webp
   - id: c02
     name: Evil Luz vs. Emperor Belos
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20vs%20Emperor%20Belos%20-1f8u244/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20vs%20Emperor%20Belos%20-1f8u244/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20vs%20Emperor%20Belos%20-1f8u244/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20vs%20Emperor%20Belos%20-1f8u244/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20vs%20Emperor%20Belos%20-1f8u244/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20vs%20Emperor%20Belos%20-1f8u244/2.webp
   - id: c03
     name: The Evil Owl Lady
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/The%20Evil%20Owl%20Lady%20-1fcq44p/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/The%20Evil%20Owl%20Lady%20-1fcq44p/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/The%20Evil%20Owl%20Lady%20-1fcq44p/2.webp
-      - https://img.moringmark.grzegorzkoperwas.site/The%20Evil%20Owl%20Lady%20-1fcq44p/3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/The%20Evil%20Owl%20Lady%20-1fcq44p/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/The%20Evil%20Owl%20Lady%20-1fcq44p/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/The%20Evil%20Owl%20Lady%20-1fcq44p/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/The%20Evil%20Owl%20Lady%20-1fcq44p/3.webp
   - id: c04
     name: "Detention Track"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20Detention%20Track%20-1fhd5qi/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20Detention%20Track%20-1fhd5qi/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20Detention%20Track%20-1fhd5qi/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20Detention%20Track%20-1fhd5qi/1.webp
   - id: c05
     name: "A Witch’s Duel"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20A%20Witchs%20Duel%20-1fod73n/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20A%20Witchs%20Duel%20-1fod73n/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20A%20Witchs%20Duel%20-1fod73n/2.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20A%20Witchs%20Duel%20-1fod73n/3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20A%20Witchs%20Duel%20-1fod73n/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20A%20Witchs%20Duel%20-1fod73n/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20A%20Witchs%20Duel%20-1fod73n/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20A%20Witchs%20Duel%20-1fod73n/3.webp
   - id: c06
     name: "Lumity"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20Lumity%20-1fsw8ef/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20Lumity%20-1fsw8ef/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20Lumity%20-1fsw8ef/2.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20Lumity%20-1fsw8ef/3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20Lumity%20-1fsw8ef/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20Lumity%20-1fsw8ef/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20Lumity%20-1fsw8ef/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20Lumity%20-1fsw8ef/3.webp
   - id: c07
     name: "Luzifer AU Outtakes: Backstory"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Outtakes%20Backstory%20-1glr2j6/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Outtakes%20Backstory%20-1glr2j6/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Outtakes%20Backstory%20-1glr2j6/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Outtakes%20Backstory%20-1glr2j6/1.webp
   - id: c08
     name: "The Vision"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/2.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/3.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/4.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/5.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/4.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Vision%20-1fv8fi6/5.webp
   - id: c09
     name: "The Secret"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20%20The%20Secret%20-1fwr1kx/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20%20The%20Secret%20-1fwr1kx/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20%20The%20Secret%20-1fwr1kx/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20%20The%20Secret%20-1fwr1kx/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20%20The%20Secret%20-1fwr1kx/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20%20The%20Secret%20-1fwr1kx/2.webp
   - id: c10
     name: "Defeating Belos"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Defeating%20Belos%20-1fy8bqn/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Defeating%20Belos%20-1fy8bqn/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Defeating%20Belos%20-1fy8bqn/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Defeating%20Belos%20-1fy8bqn/1.webp
   - id: c11
     name: "Yes Boy"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Yes%20Boy%20-1g1agvc/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Yes%20Boy%20-1g1agvc/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Yes%20Boy%20-1g1agvc/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Yes%20Boy%20-1g1agvc/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Yes%20Boy%20-1g1agvc/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Yes%20Boy%20-1g1agvc/2.webp
   - id: c12
     name: "Being Nice"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Being%20Nice%20-1g3gg2l/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Being%20Nice%20-1g3gg2l/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Being%20Nice%20-1g3gg2l/2.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Being%20Nice%20-1g3gg2l/3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Being%20Nice%20-1g3gg2l/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Being%20Nice%20-1g3gg2l/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Being%20Nice%20-1g3gg2l/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Being%20Nice%20-1g3gg2l/3.webp
   - id: c13
     name: "The Couple Who Slays Together"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/2.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/3.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/4.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/5.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/4.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20The%20Couple%20Who%20Slays%20Together%20-1g5rjox/5.webp
   - id: c14
     name: "Meanwhile, Evil Vee."
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Meanwhile%20Evil%20Vee%20-1g8qdbb/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Meanwhile%20Evil%20Vee%20-1g8qdbb/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Meanwhile%20Evil%20Vee%20-1g8qdbb/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Meanwhile%20Evil%20Vee%20-1g8qdbb/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Meanwhile%20Evil%20Vee%20-1g8qdbb/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Meanwhile%20Evil%20Vee%20-1g8qdbb/2.webp
   - id: c15
     name: "Mr. Arson"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/2.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/3.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/4.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/5.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/4.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Mr%20Arson%20-1gab9aq/5.webp
   - id: c16
     name: "Baby’s First Boss Fight"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/2.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/3.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/4.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/5.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/4.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Babys%20First%20Boss%20Fight%20-1gevayy/5.webp
   - id: c17
     name: "Anthem"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/2.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/3.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/4.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/5.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/4.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Anthem%20-1gjevo6/5.webp
   - id: c18
     name: "End Goal"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/2.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/3.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/4.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/5.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/4.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20End%20Goal%20-1gqdi02/5.webp
   - id: c19
     name: "Prophecy"
     pages:
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/0.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/1.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/2.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/3.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/4.webp
-      - https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/5.webp
-s2_double_timeline_comics:
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/4.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Prophecy%20-1guxrlu/5.webp
   - id: c20
     name: "Decision"
     pages:
@@ -258,12 +257,11 @@ s2_double_timeline_comics:
       - tumblr: https://64.media.tumblr.com/f7800fec2dabc76fbc4a171778ceef11/72626368fb13e2ef-a9/s1280x1920/eaf028e2b2ddde80654df1d79910799d3e48c7c5.png
         reddit: https://img.moringmark.grzegorzkoperwas.site/Crossing%20Paths%20-1i3gy6t/2.webp
       - tumblr: https://64.media.tumblr.com/793343ec520532665c1d8bb2655953fd/72626368fb13e2ef-b3/s1280x1920/d564774ab1836dbb86b8f8e4b98584c473c54be5.png
-        reddit: https://img.moringmark.grzegorzkoperwas.site/Crossing%20Paths%20-1i3gy6t/3.webp 
-s3_joined_timeline_comics:
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Crossing%20Paths%20-1i3gy6t/3.webp
   - id: c30
     name: First Meet
     pages:
-      - https://64.media.tumblr.com/66a6bc45a6bcad7f5839921113ff9139/eaeac8148c51d655-f0/s1280x1920/fdc01d80b89495a50da968a65cb3df9207a0f1b8.png
-      - https://64.media.tumblr.com/8df293ca76a94eba0da089bf9db76bc0/eaeac8148c51d655-3e/s1280x1920/cbab595bfbfdcf2fa70197e457c2211e49c8c7bb.png
-      - https://64.media.tumblr.com/11e3220334c5a584848c65cc42aab358/eaeac8148c51d655-97/s1280x1920/da895a43c6aba9f2e36c099e9247858278ea7d55.png
+      - common: https://64.media.tumblr.com/66a6bc45a6bcad7f5839921113ff9139/eaeac8148c51d655-f0/s1280x1920/fdc01d80b89495a50da968a65cb3df9207a0f1b8.png
+      - common: https://64.media.tumblr.com/8df293ca76a94eba0da089bf9db76bc0/eaeac8148c51d655-3e/s1280x1920/cbab595bfbfdcf2fa70197e457c2211e49c8c7bb.png
+      - common: https://64.media.tumblr.com/11e3220334c5a584848c65cc42aab358/eaeac8148c51d655-97/s1280x1920/da895a43c6aba9f2e36c099e9247858278ea7d55.png
 ---
