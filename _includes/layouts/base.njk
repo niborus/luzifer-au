@@ -26,30 +26,32 @@
       {% for page in comic.pages %}
         {% if page.common %}
           <div class="single-timeline">
-            <img src="{{ page.common }}"
-                 alt="{{comic.name}}; Common Version; No image description available."
-                 class="lazy page-common"
-                 height="1030"
-                 loading="lazy"
-            >
+            <div class="page-wrapper page-common-wrapper">
+              <img src="{{ page.common }}"
+                   alt="{{comic.name}}; Common Version; No image description available."
+                   class="lazy page page-common"
+                   height="1030"
+                   loading="lazy"
+              >
+            </div>
           </div>
         {% else %}
           <div class="page-pair">
-            <div class="page-tumblr-wrapper">
+            <div class="page-wrapper page-tumblr-wrapper">
               {% if page.tumblr %}
                 <img src="{{page.tumblr}}"
                      alt="{{comic.name}}; Tumblr Version; No image description available."
-                     class="lazy page-tumblr"
+                     class="lazy page page-tumblr"
                      height="1030"
                      loading="lazy"
                 >
               {% endif %}
             </div>
-            <div class="page-reddit-wrapper">
+            <div class="page-wrapper page-reddit-wrapper">
               {% if page.reddit %}
                 <img src="{{page.reddit}}"
                      alt="{{comic.name}}; Reddit Version; No image description available."
-                     class="lazy page-reddit"
+                     class="lazy page page-reddit"
                      height="1030"
                      loading="lazy"
                 >

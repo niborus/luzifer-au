@@ -3,7 +3,7 @@ body {
     margin-right: 0;
 }
 
-.page-reddit, .page-tumblr {
+.page {
     border-left: 1em solid;
     max-width: 100%;
 }
@@ -13,7 +13,7 @@ body {
     flex-wrap: wrap;
     max-width: 100%;
 }
-.page-reddit-wrapper, .page-tumblr-wrapper {
+.page-wrapper {
     padding-right: 1em;
 }
 
@@ -30,7 +30,7 @@ summary {
     .page-pair {
         flex-wrap: nowrap;
     }
-    .page-reddit-wrapper, .page-tumblr-wrapper {
+    .page-wrapper {
         width: 50%;
     }
 }
@@ -44,5 +44,9 @@ summary {
 }
 
 .page-common {
-    max-width: 100%;
+    /* This creates a striped border effect. */
+    border-left: solid .5em;
+    box-shadow: -.5em 0 darkblue;
+    margin-left: .5em;
+    border-left-color: darkorange;
 }
