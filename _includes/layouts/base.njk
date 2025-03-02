@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
     <meta charset="UTF-8">
     <link rel="stylesheet" href="styling.css">
@@ -10,12 +11,21 @@
 <body>
 <header>
     <h1>Luzifer - Side by Side</h1>
+    <p>
+      Luzifer is a comic by MoringMark. Find him at (
+      <a href="https://bsky.app/profile/moringmark.bsky.social">BlueSky</a>,
+      <a href="https://www.instagram.com/moringmarkugh/">Instagram</a>,
+      <a href="https://www.reddit.com/user/makmark/">Reddit</a> and
+      <a href="https://moringmark.tumblr.com">Tumblr</a>
+      ).
+    </p>
     <section id="toc">
         <h2>Table of Contents</h2>
         <ol>
             {% for comic in comics %}
             <li><a href="#{{comic.id}}">{{comic.name}}</a></li>
             {% endfor %}
+            <li id="toc-end-item"><a href="#footer">Further Information</a></li>
         </ol>
     </section>
 </header>
@@ -64,5 +74,29 @@
 </article>
 {% endfor %}
 <script src="lazyload.js"></script>
+<footer>
+  <h2 id="footer">Further Information</h2>
+  <p>
+    Comic Artist and owner of the images is MoringMark.
+    Find him at (
+    <a href="https://bsky.app/profile/moringmark.bsky.social">BlueSky</a>,
+    <a href="https://www.instagram.com/moringmarkugh/">Instagram</a>,
+    <a href="https://www.reddit.com/user/makmark/">Reddit</a> and
+    <a href="https://moringmark.tumblr.com">Tumblr</a>
+    ).
+  </p>
+  <p>
+    Comics are based of the series
+    <a referrerpolicy="no-referrer" href="https://www.disneyplus.com/en-gb/series/the-owl-house/4cOTrEy0YyaX">The Owl House</a> by Disney.
+  </p>
+  <p>
+    Image hosting provided by <a href="https://moringmark.tumblr.com">Tumblr</a> and
+    <a href="https://moringmark.grzegorzkoperwas.site/">HakierGrzonzo</a>.
+  </p>
+  <p>
+    Maintaining of this page is done by <a href="https://github.com/niborus">niborus</a>.
+    The source code for this page can be found at <a href="https://github.com/niborus/luzifer-au">GitHub</a>.
+  </p>
+</footer>
 </body>
 </html>

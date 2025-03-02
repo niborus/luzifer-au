@@ -3,6 +3,11 @@ body {
     margin-right: 0;
 }
 
+#toc-end-item {
+    list-style-type: disc;
+    margin-top: .3em;
+}
+
 .page {
     border-left: 1em solid;
     max-width: 100%;
@@ -63,3 +68,5 @@ summary {
     a:hover { color: #ffffff; }
     a:active { color: #ff4040; text-decoration:none; font-weight:normal; }
 }
+
+header, footer { margin: 1em; }
