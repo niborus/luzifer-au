@@ -264,4 +264,39 @@ comics:
       - common: https://64.media.tumblr.com/66a6bc45a6bcad7f5839921113ff9139/eaeac8148c51d655-f0/s1280x1920/fdc01d80b89495a50da968a65cb3df9207a0f1b8.png
       - common: https://64.media.tumblr.com/8df293ca76a94eba0da089bf9db76bc0/eaeac8148c51d655-3e/s1280x1920/cbab595bfbfdcf2fa70197e457c2211e49c8c7bb.png
       - common: https://64.media.tumblr.com/11e3220334c5a584848c65cc42aab358/eaeac8148c51d655-97/s1280x1920/da895a43c6aba9f2e36c099e9247858278ea7d55.png
+  - id: c31
+    name: Dispute
+    pages:
+      - common: https://64.media.tumblr.com/defe63df1a05abdcfeb0218a13c4a9d9/729d4456fca69aa4-d2/s1280x1920/acbc52b957acf5f6e388232edd0518cdc2f5458b.png
+      - common: https://64.media.tumblr.com/65f8e22524d91dfa8a268bb71a9c8f94/729d4456fca69aa4-b9/s1280x1920/1a4bdda740893ffd057f7eebb94ddff15313c3a4.png
+      - common: https://64.media.tumblr.com/20b0360e40d2045b93b6d228a35bd766/729d4456fca69aa4-fa/s1280x1920/2cc29e74e6fcd07b83d45644aae612d198da5f05.png
+      - common: https://64.media.tumblr.com/20850063e323c82bc2d9bd828cb6161b/729d4456fca69aa4-44/s1280x1920/7a28890bc66af00d611006a6e4cff6050dd25b07.png
+      - common: https://64.media.tumblr.com/27c839f8672ecae97b451e3173c3836a/729d4456fca69aa4-36/s1280x1920/d360b1a06767d364a5ebb70e6711d77a82c8973e.png
+      - common: https://64.media.tumblr.com/bbc534c8982d736f31698e32a2e6e7bf/729d4456fca69aa4-55/s1280x1920/b91786ff3ff510089e2180c3467c880f016d62e4.png
+  - id: c32
+    name: Think Fast
+    pages:
+      - common: https://64.media.tumblr.com/4b5120e6424f15c5b46b69b29f7c9427/86b403a4b42bcc8b-69/s1280x1920/3fc1d9b7f18db1b29fda27246febfc2890658680.png
+      - common: https://64.media.tumblr.com/d06624d26c6016ba960e071b4d55e8a9/86b403a4b42bcc8b-bc/s1280x1920/81dd6c69b28751a8b3b7efebcc14eb9d54f49420.png
+      - common: https://64.media.tumblr.com/5fba1c0af380286023aa5a73d0cb22de/86b403a4b42bcc8b-b4/s1280x1920/3e713f1160c920add1ce634f9adff7bd0d2c8001.png
+      - common: https://64.media.tumblr.com/41afe3b4e06a093ae834da5624cec7ee/86b403a4b42bcc8b-72/s1280x1920/22672b98346f75b43739ce79aa8b44a9843f52f6.png
+      - common: https://64.media.tumblr.com/8ed5136fc71209acf9d00b5de1c5dc4e/86b403a4b42bcc8b-4e/s1280x1920/44730517926f0668a63dbcb17d28e223287799c5.png
+      - common: https://64.media.tumblr.com/eb120eeb76736f2905130c4c90c0f35b/86b403a4b42bcc8b-36/s1280x1920/ee5095a527a18f0979f1497324ac7c6c19d2d386.png
+  - id: c33
+    name: Trickster
+    pages:
+      - common: https://64.media.tumblr.com/6ac0d4d06e87dd7606745c57c4872b51/08f0536b494acf60-bb/s1280x1920/7c106e8b3f39b93cd72abaf3c18ead2e2f4a0352.png
+      - common: https://64.media.tumblr.com/2a36a293c018a359e07bcaf144c7373a/08f0536b494acf60-87/s1280x1920/a4851cc56f5099885ae4df0bf399394afd6ba528.png
+      - common: https://64.media.tumblr.com/40f911d760d447c938f40b803fe6b52c/08f0536b494acf60-cc/s1280x1920/4d40f7c9193b0bdb1c46ecb4e9fe1f8fe23a96ec.png
+      - common: https://64.media.tumblr.com/b1b29ec22a0b541d3df9b47d81c94f79/08f0536b494acf60-9e/s1280x1920/47ad609d960b04a72f50497c9ce0bce394e94c69.png
+  - id: c34
+    name: Run
+    pages:
+      - common: https://64.media.tumblr.com/d48bea87227aba753ff59950b49f2d06/325ae4cc403b8e62-da/s1280x1920/1e4f69eb46771f70c8e1ed1bc6e69221ff28ab7b.png
+      - common: https://64.media.tumblr.com/084b464e807d4d7e9db50cb156dbb34c/325ae4cc403b8e62-c2/s1280x1920/2df775d4007b94bf0639ebbdc2a448e1c5092c9e.png
+      - common: https://64.media.tumblr.com/57ff81cb5a0c142c651a97b8615a82fc/325ae4cc403b8e62-4a/s1280x1920/6c269601300b766d69f85461a0c16145fec0aaf4.png
+      - common: https://64.media.tumblr.com/77c7137476b627e7659da9dac18051a8/325ae4cc403b8e62-3e/s1280x1920/2a5d5645481c3acd78ea4fc6e0a5c812788945bf.png
+      - common: https://64.media.tumblr.com/df4baed26e75e1edc78bef49e743f2e3/325ae4cc403b8e62-51/s1280x1920/b986ff3b55988a25e065ad074b5148471415ee46.png
+      - tumblr: https://64.media.tumblr.com/7bbc9ec3dacb0ea2041c2e50eca43615/325ae4cc403b8e62-71/s1280x1920/83b6f48a02252b33b8f7dc76dbadc01674a6a281.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Run-5.webp
 ---
