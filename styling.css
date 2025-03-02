@@ -50,3 +50,16 @@ summary {
     margin-left: .5em;
     border-left-color: darkorange;
 }
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #131516;
+        color: #e8e6e3;
+    }
+    .page-common { box-shadow: -.5em 0 lightskyblue }
+    .page-tumblr { border-left-color: lightskyblue }
+    a:link { color: lightskyblue; }
+    a:visited { color: #ba94e7; }
+    a:hover { color: #ffffff; }
+    a:active { color: #ff4040; text-decoration:none; font-weight:normal; }
+}
