@@ -302,12 +302,12 @@ comics:
   - id: c35
     name: Phantom Limb
     pages:
-      - tumblr: ~
-        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Phantom%20Limb-0.webp
       - tumblr: https://64.media.tumblr.com/23cf3eb6644216ee5921c882be3bedf1/ce6e9655aaeae59a-24/s1280x1920/5207999384805cad5da2c0eff86f26f300e1e17e.png
-        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Phantom%20Limb-1.webp
-      - tumblr: https://64.media.tumblr.com/c88182fe9fc0fedc0be78ef31dcee18e/ce6e9655aaeae59a-fa/s1280x1920/c2ae8531ea0e43b799b73e31762e5b5f177cb00c.png
-        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Phantom%20Limb-2.webp
-      - tumblr: https://64.media.tumblr.com/996ff4f24e23612acb31f7fa709a73f7/ce6e9655aaeae59a-cc/s1280x1920/951bdd1d6d68173a3c3f989541750e2aed5660db.png
         reddit: ~
+      - tumblr: https://64.media.tumblr.com/c88182fe9fc0fedc0be78ef31dcee18e/ce6e9655aaeae59a-fa/s1280x1920/c2ae8531ea0e43b799b73e31762e5b5f177cb00c.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Phantom%20Limb-0.webp
+      - tumblr: https://64.media.tumblr.com/996ff4f24e23612acb31f7fa709a73f7/ce6e9655aaeae59a-cc/s1280x1920/951bdd1d6d68173a3c3f989541750e2aed5660db.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Phantom%20Limb-1.webp
+      - tumblr: ~
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Phantom%20Limb-2.webp
 ---
