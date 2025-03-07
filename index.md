@@ -299,4 +299,13 @@ comics:
       - common: https://64.media.tumblr.com/df4baed26e75e1edc78bef49e743f2e3/325ae4cc403b8e62-51/s1280x1920/b986ff3b55988a25e065ad074b5148471415ee46.png
       - tumblr: https://64.media.tumblr.com/7bbc9ec3dacb0ea2041c2e50eca43615/325ae4cc403b8e62-71/s1280x1920/83b6f48a02252b33b8f7dc76dbadc01674a6a281.png
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Run-5.webp
+  - id: c35
+    name: Phantom Limb
+    pages:
+      - tumblr: https://64.media.tumblr.com/23cf3eb6644216ee5921c882be3bedf1/ce6e9655aaeae59a-24/s1280x1920/5207999384805cad5da2c0eff86f26f300e1e17e.png
+        reddit: 'https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbcr7z6imazdqgsfrs3luucj/bafkreihjarjhimrsihu2tez6frtd4w7kv5r3lqqv2dsuloytl5ac7dciqa@jpeg'
+      - tumblr: https://64.media.tumblr.com/c88182fe9fc0fedc0be78ef31dcee18e/ce6e9655aaeae59a-fa/s1280x1920/c2ae8531ea0e43b799b73e31762e5b5f177cb00c.png
+        reddit: 'https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbcr7z6imazdqgsfrs3luucj/bafkreiehxofomh5gkvflxlsfx3gz7is2plutwrg32tw72x4c3rkofcknme@jpeg'
+      - tumblr: https://64.media.tumblr.com/996ff4f24e23612acb31f7fa709a73f7/ce6e9655aaeae59a-cc/s1280x1920/951bdd1d6d68173a3c3f989541750e2aed5660db.png
+        reddit: 'https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbcr7z6imazdqgsfrs3luucj/bafkreigcf5crlkjhe2kgozu7enhykhc43jfmxlmzsgmkp43w3u5qsszh6m@jpeg'
 ---
