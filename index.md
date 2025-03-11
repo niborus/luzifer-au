@@ -310,4 +310,15 @@ comics:
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Phantom%20Limb-1.webp
       - tumblr: https://64.media.tumblr.com/996ff4f24e23612acb31f7fa709a73f7/ce6e9655aaeae59a-cc/s1280x1920/951bdd1d6d68173a3c3f989541750e2aed5660db.png
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Phantom%20Limb-2.webp
+  - id: c36
+    name: Lending a Hand / Meet the Resistance
+    pages:
+      - tumblr: https://64.media.tumblr.com/d5d4d7baeb0bf85f764ccac8e1ef7640/ea5346226f689f8c-97/s1280x1920/fb3bca1952f2fd52a1881e28f0f31f4e57f45506.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Meet%20the%20Resistance-0.webp
+      - tumblr: https://64.media.tumblr.com/e40d1150f083b40050fa048ed166f629/ea5346226f689f8c-41/s1280x1920/6814b02adc7236abdfb261dfa574a09607b62a4b.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Meet%20the%20Resistance-1.webp
+      - tumblr: https://64.media.tumblr.com/ff992636c6b61ff9e38029f88ded32e7/ea5346226f689f8c-1c/s1280x1920/a900e98a16ce39b7f9ed4aa522f11c6d5bb179a6.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Meet%20the%20Resistance-2.webp
+      - tumblr: https://64.media.tumblr.com/a65e0bc9b74e70d08a28127cb27ed03a/ea5346226f689f8c-82/s1280x1920/d235733cf68679d8abb4d06da291d202bec05ad6.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Meet%20the%20Resistance-3.webp
 ---
