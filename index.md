@@ -321,4 +321,22 @@ comics:
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Meet%20the%20Resistance-2.webp
       - tumblr: https://64.media.tumblr.com/a65e0bc9b74e70d08a28127cb27ed03a/ea5346226f689f8c-82/s1280x1920/d235733cf68679d8abb4d06da291d202bec05ad6.png
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Meet%20the%20Resistance-3.webp
+  - id: c37
+    name: Jailbreak
+    pages:
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Jailbreak-0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Jailbreak-1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Jailbreak-2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Jailbreak-3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Jailbreak-4.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/Jailbreak-5.webp
+  - id: c38
+    name: The Right Thing
+    pages:
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/The%20Right%20Thing-0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/The%20Right%20Thing-1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/The%20Right%20Thing-2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/The%20Right%20Thing-3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/The%20Right%20Thing-4.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/The%20Right%20Thing-5.webp
 ---
