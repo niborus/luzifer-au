@@ -39,7 +39,7 @@ comics:
       - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20Lumity%20-1fsw8ef/2.webp
       - common: https://img.moringmark.grzegorzkoperwas.site/Evil%20Luz%20%20Lumity%20-1fsw8ef/3.webp
   - id: c07
-    name: "Luzifer AU Outtakes: Backstory"
+    name: "[Interlude] Luzifer AU Outtakes: Backstory"
     pages:
       - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Outtakes%20Backstory%20-1glr2j6/0.webp
       - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%20Outtakes%20Backstory%20-1glr2j6/1.webp
@@ -339,4 +339,9 @@ comics:
       - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/The%20Right%20Thing-3.webp
       - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/The%20Right%20Thing-4.webp
       - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/The%20Right%20Thing-5.webp
+  - id: c39
+    name: '[Interlude] What if'
+    pages:
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/What%20if-0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/What%20if-1.webp
 ---
