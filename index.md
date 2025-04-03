@@ -344,4 +344,24 @@ comics:
     pages:
       - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/What%20if-0.webp
       - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU/What%20if-1.webp
+  - id: c40
+    name: “Hi Sorry, I’m…Dad?”
+    pages:
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2F%E2%80%9CHi%20Sorry%2C%20I%E2%80%99m%E2%80%A6Dad%3F%E2%80%9D-0.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2F%E2%80%9CHi%20Sorry%2C%20I%E2%80%99m%E2%80%A6Dad%3F%E2%80%9D-1.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2F%E2%80%9CHi%20Sorry%2C%20I%E2%80%99m%E2%80%A6Dad%3F%E2%80%9D-2.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2F%E2%80%9CHi%20Sorry%2C%20I%E2%80%99m%E2%80%A6Dad%3F%E2%80%9D-3.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2F%E2%80%9CHi%20Sorry%2C%20I%E2%80%99m%E2%80%A6Dad%3F%E2%80%9D-4.webp
+      - common: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2F%E2%80%9CHi%20Sorry%2C%20I%E2%80%99m%E2%80%A6Dad%3F%E2%80%9D-5.webp
+  - id: c41
+    name: Plan B / Bodyguard
+    pages:
+      - tumblr: https://64.media.tumblr.com/beb49843fc9b4e6396381f6461cad6e3/92127d388ab2a536-72/s1280x1920/aaf6fddf567f27673c02853bb36dcccc5822e160.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FBodyguard-0.webp
+      - tumblr: https://64.media.tumblr.com/af332732478063b793190e64130a4dbc/92127d388ab2a536-c4/s1280x1920/1de3b74b01d1f1e5c6e1446f3d8f54b4d1f99b85.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FBodyguard-1.webp
+      - tumblr: https://64.media.tumblr.com/386ad3c16bc650c03ef6a5c191895a4d/92127d388ab2a536-e3/s1280x1920/30538565c00138b4207684c4b541d5aa0afb3f88.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FBodyguard-2.webp
+      - tumblr: ~
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FBodyguard-3.webp
 ---
