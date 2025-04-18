@@ -364,4 +364,26 @@ comics:
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FBodyguard-2.webp
       - tumblr: ~
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FBodyguard-3.webp
+  - id: c42
+    name: President / Stronghold
+    pages:
+      - tumblr: https://64.media.tumblr.com/2ed44c25974c3d10dc0c257f4cf0505c/3dfe538e9ccabd87-2e/s1280x1920/7d5fc414ad5efab1061f412635fc312e21bc3284.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FStronghold-0.webp
+      - tumblr: https://64.media.tumblr.com/75badc467612b8c332a9f5c78abbc264/3dfe538e9ccabd87-ca/s1280x1920/c26e82454174553845b02b9b7e333429cc5dd534.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FStronghold-1.webp
+      - tumblr: https://64.media.tumblr.com/7521a93af06410e226095651058b847c/3dfe538e9ccabd87-81/s1280x1920/aad3a520675cae4e70ababb3d8d8d65910336685.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FStronghold-2.webp
+      - tumblr: https://64.media.tumblr.com/2a3de219871143ec74910f46608102f1/3dfe538e9ccabd87-1b/s1280x1920/669b9406efc2b67d20915392c935ae951fee0daa.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FStronghold-3.webp
+  - id: c43
+    name: All I ever wanted… / Before the Storm
+    pages:
+      - tumblr: https://64.media.tumblr.com/f3aab4f806273ace26f53f49856d534c/0ce608d2fd0543ef-b2/s1280x1920/5cf68d96d44a356819478aac24a068fe928aa0e3.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FBefore%20the%20Storm-0.webp
+      - tumblr: https://64.media.tumblr.com/25daaa4e1ea3445a0edb663f0694d840/0ce608d2fd0543ef-e4/s1280x1920/36713e2366d716c8b1236a746b311e354b108ee0.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FBefore%20the%20Storm-1.webp
+      - tumblr: https://64.media.tumblr.com/8044dedfef19e051af3f28f8a2f84cbd/0ce608d2fd0543ef-97/s1280x1920/827e7d24448f078683f3bbed322ad172d78e5f16.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FBefore%20the%20Storm-2.webp
+      - tumblr: https://64.media.tumblr.com/ec5e9510171000eac44a428efb247940/0ce608d2fd0543ef-ea/s1280x1920/0ffef8139d44bdba8005ddff85402f87530f3283.png
+        reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FBefore%20the%20Storm-3.webp
 ---
