@@ -22,14 +22,14 @@
     <section id="toc">
         <h2>Table of Contents</h2>
         <ol>
-            {% for comic in comics %}
+            {% for comic in luzifer.comics %}
             <li><a href="#{{comic.id}}">{{comic.name}}</a></li>
             {% endfor %}
             <li id="toc-end-item"><a href="#footer">Further Information</a></li>
         </ol>
     </section>
 </header>
-{% for comic in comics %}
+{% for comic in luzifer.comics %}
 <article>
   <details>
     <summary><h2 id="{{comic.id}}">{{comic.name}}</h2></summary>
