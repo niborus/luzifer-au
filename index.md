@@ -365,7 +365,7 @@ comics:
       - tumblr: ~
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FBodyguard-3.webp
   - id: c42
-    name: President / Stronghold
+    name: Oval Office / Stronghold
     pages:
       - tumblr: https://64.media.tumblr.com/2ed44c25974c3d10dc0c257f4cf0505c/3dfe538e9ccabd87-2e/s1280x1920/7d5fc414ad5efab1061f412635fc312e21bc3284.png
         reddit: https://img.moringmark.grzegorzkoperwas.site/Luzifer%20AU%2FStronghold-0.webp
